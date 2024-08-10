@@ -12,7 +12,7 @@ body {
 }
 
 .gps-background {
-  background-image: url("gps-background.jpg");
+  /* background-image: url("gps-background.jpg"); */
   background-size: cover;
   background-position: center;
   padding: 20px;
