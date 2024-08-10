@@ -1,28 +1,38 @@
 import React, { useState } from 'react';
 import axios from 'axios';
+import './SignUpLogin.css';  // Link to the external CSS file
 
-const SignUp = () => {
+const SignUpLogin = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [message, setMessage] = useState('');
+  const [passwordVisible, setPasswordVisible] = useState(false);
 
-  const handleSubmit = (e) => {
+  const handleSubmit = (e, action) => {
     e.preventDefault();
+    
+    const url = action === 'signup' 
+      ? 'http://localhost:3001/api/signup' 
+      : 'http://localhost:3001/api/login';
 
-    axios.post('http://localhost:3001/api/signup', { username, password })
+    axios.post(url, { username, password })
       .then(response => {
         setMessage(response.data.message);
       })
       .catch(error => {
         console.error('There was an error!', error);
-        setMessage('An error occurred. Please try again.');
+        setMessage('The username or Password you entered is wrong!');
       });
   };
+  const togglePasswordVisibility = () => {
+    setPasswordVisible(!passwordVisible);
+  };
+  
 
   return (
     <div className="container mt-5">
-      <h2>Sign Up</h2>
-      <form onSubmit={handleSubmit}>
+      <h2>Login to your account</h2>
+      <form>
         <div className="form-group">
           <label>Username</label>
           <input 
@@ -36,18 +46,35 @@ const SignUp = () => {
         <div className="form-group">
           <label>Password</label>
           <input 
-            type="password" 
+            type={passwordVisible ? "text" : "password"}  // Modify this line
             className="form-control" 
             value={password} 
             onChange={(e) => setPassword(e.target.value)} 
             required 
           />
+        
         </div>
-        <button type="submit" className="btn btn-primary">Sign Up</button>
+        <div className="button-container">
+          <button 
+            type="button" 
+            className="btn btn-primary signup-btn" 
+            onClick={(e) => handleSubmit(e, 'signup')}
+          >
+            Sign Up
+          </button>
+          <button 
+            type="button" 
+            className="btn btn-secondary login-btn" 
+            onClick={(e) => handleSubmit(e, 'login')}
+          >
+            Login
+          </button>
+        </div>
       </form>
+
       {message && <p className="mt-3">{message}</p>}
     </div>
   );
 };
 
-export default SignUp;
+export default SignUpLogin;
