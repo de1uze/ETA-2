@@ -35,7 +35,7 @@ const Map = () => {
     <div className="container mt-5">
       <h2>Map</h2>
       <button className="btn btn-primary mb-3" onClick={handleGetLocation}>Get Location</button>
-      <LoadScript googleMapsApiKey="AIzaSyCJxWJKUpU3bcUsAUsaNeQkVnoaFgb97MY">
+      <LoadScript googleMapsApiKey="AIzaSyAQT1rdtqz5DnuDucFY1qUXg7Sl7Pp6660">
         <GoogleMap
           mapContainerStyle={containerStyle}
           center={location || center}
@@ -44,6 +44,7 @@ const Map = () => {
           {location && <Marker position={location} />}
         </GoogleMap>
       </LoadScript>
+    
     </div>
   );
 };
