@@ -7,6 +7,7 @@ import RoutePage from './RoutePage';
 import ETA from './ETA';
 import FindBus from './FindBus';
 import GoogleMapView from './GoogleMapView';
+import FareCalculator from './FareCalculator';
 
 
 
@@ -22,7 +23,10 @@ function App() {
           <Route path="/route" element={<RoutePage />} />
           <Route path="/eta" element={<ETA />} />
           <Route path="/findbus" element={<FindBus />} /> 
-          <Route path="/googlemapview" element={<GoogleMapView />} /> {/* Add the route for GoogleMapView */}
+          <Route path="/googlemapview" element={<GoogleMapView />} />
+          <Route path="/farecalculator" element={<FareCalculator />} /> {/* Add the route for FareCalculator */}
+
+          
 
 
         </Routes>

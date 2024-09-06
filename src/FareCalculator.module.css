@@ -1,0 +1,48 @@
+/* FareCalculator.module.css */
+
+.fareCalculatorContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 20px; /* Space between controls and map */
+    padding: 20px;
+  }
+  
+  .controlsContainer {
+    width: 40%;
+  }
+  
+  .mapContainer {
+    width: 60%;
+    height: 400px; /* Adjust height as needed */
+    border: 1px solid #ddd; /* Optional: border to make map container visible */
+  }
+  
+  .label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  .select, .button {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 16px;
+  }
+  
+  .button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  .fareDisplay {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    color: green;
+  }
+  

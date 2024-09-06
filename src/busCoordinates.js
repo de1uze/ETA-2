@@ -1027,5 +1027,5 @@ const busCoordinates = [
     }
 ]
   
-  export default busCoordinates; // Ensure this is an array
+  export default busCoordinates; 
   

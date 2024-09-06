@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import staffData from './staffInfo'; // Adjust the path if necessary
+import staffInfo from './staffInfo'; // Adjust the path if necessary
 
 const StaffInfoTable = () => {
   // Pagination state
@@ -12,7 +12,7 @@ const StaffInfoTable = () => {
   // Function to handle pagination
   const indexOfLastRow = currentPage * rowsPerPage;
   const indexOfFirstRow = indexOfLastRow - rowsPerPage;
-  const currentRows = staffData
+  const currentRows = staffInfo
     .filter(staff => 
       staff.name.toLowerCase().includes(filter.toLowerCase()) || 
       staff.role.toLowerCase().includes(filter.toLowerCase())
@@ -48,6 +48,7 @@ const StaffInfoTable = () => {
             <th>Bus</th>
             <th>Contact Number</th>
             <th>Email</th>
+            <th>Device ID</th>
           </tr>
         </thead>
         <tbody>
@@ -59,13 +60,14 @@ const StaffInfoTable = () => {
               <td>{staff.bus}</td>
               <td>{staff.contactNumber}</td>
               <td>{staff.email}</td>
+              <td>{staff.deviceId}</td>
             </tr>
           ))}
         </tbody>
       </table>
 
       <div style={{ marginTop: '10px', textAlign: 'center' }}>
-        {Array.from({ length: Math.ceil(staffData.filter(staff => 
+        {Array.from({ length: Math.ceil(staffInfo.filter(staff => 
           staff.name.toLowerCase().includes(filter.toLowerCase()) || 
           staff.role.toLowerCase().includes(filter.toLowerCase())
         ).length / rowsPerPage) }, (_, i) => (

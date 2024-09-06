@@ -5,8 +5,8 @@ import busCoordinates from './busCoordinates'; // Adjust the path if necessary
 import StaffInfoTable from './StaffInfoTable';
 
 const containerStyle = {
-  width: '800px',
-  height: '600px',
+  width: '1000px',
+  height: '500px',
   margin: 'auto',
   border: '2px solid #333',
   borderRadius: '8px',
@@ -53,7 +53,7 @@ const GoogleMapView = () => {
               position={{ lat, lng }}
               onClick={() => setSelectedBus(bus)}
               icon={{
-                url: 'https://cdn-icons-png.flaticon.com/128/1048/1048333.png',
+                url: 'https://cdn-icons-png.flaticon.com/128/149/149983.png',
                 scaledSize: new window.google.maps.Size(25, 41),
               }}
             />
