@@ -1,0 +1,2938 @@
+[
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "bhayandar_station_east",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.310718, 72.853207"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "bhayandar_railway_station",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.309738, 72.853313"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "bhayandar market",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.307762, 72.855318"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.305441, 72.857825"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.304298, 72.859082"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Aanand nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.304551, 72.862144"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "om shanti chowk",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Woodland",
+    "Fare": 11,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "bhayandar_railway_station",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.309738, 72.853313"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "bhayandar market",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.307762, 72.855318"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.305441, 72.857825"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.304298, 72.859082"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Aanand nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.304551, 72.862144"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_station_east",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "bhayandar market",
+    "Fare": 6,
+    "Station1_coordinates": "19.312248, 72.853494",
+    "Station2_coordinates": "19.307762, 72.855318"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "Khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.305441, 72.857825"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.304298, 72.859082"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "Aanand nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.304551, 72.862144"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar_railway_station",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.309738, 72.853313",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "Khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.305441, 72.857825"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.304298, 72.859082"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "Aanand nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.304551, 72.862144"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "bhayandar market",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.307762, 72.855318",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "khari gaon",
+    "Fare": 6,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.304298, 72.859082"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "Aanand nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.304551, 72.862144"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gaon",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Khari gao",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.305441, 72.857825",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "Aanand nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.304551, 72.862144"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "khari gaon",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.304298, 72.859082",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "kashi nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.304097, 72.863127"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Aanand nagar",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.304551, 72.862144",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kashi nagar",
+    "Station_2": "kalavati mandir",
+    "Fare": 6,
+    "Station1_coordinates": "19.304097, 72.863127",
+    "Station2_coordinates": "19.303810, 72.864022"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kashi nagar",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.304097, 72.863127",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kashi nagar",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.304097, 72.863127",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kashi nagar",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.304097, 72.863127",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kashi nagar",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.304097, 72.863127",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kashi nagar",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.304097, 72.863127",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kalavati mandir",
+    "Station_2": "Praful patil chowk indralok naka",
+    "Fare": 6,
+    "Station1_coordinates": "19.303810, 72.864022",
+    "Station2_coordinates": "19.303365, 72.865113"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kalavati mandir",
+    "Station_2": "om shanti chowk",
+    "Fare": 8,
+    "Station1_coordinates": "19.303810, 72.864022",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kalavati mandir",
+    "Station_2": "Ram Nagar",
+    "Fare": 8,
+    "Station1_coordinates": "19.303810, 72.864022",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kalavati mandir",
+    "Station_2": "Woodland",
+    "Fare": 8,
+    "Station1_coordinates": "19.303810, 72.864022",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "kalavati mandir",
+    "Station_2": "KD Empire",
+    "Fare": 11,
+    "Station1_coordinates": "19.303810, 72.864022",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Praful patil chowk indralok naka",
+    "Station_2": "om shanti chowk",
+    "Fare": 6,
+    "Station1_coordinates": "19.303365, 72.865113",
+    "Station2_coordinates": "19.302451, 72.867173"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Praful patil chowk indralok naka",
+    "Station_2": "Ram Nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.303365, 72.865113",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Praful patil chowk indralok naka",
+    "Station_2": "Woodland",
+    "Fare": 6,
+    "Station1_coordinates": "19.303365, 72.865113",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Praful patil chowk indralok naka",
+    "Station_2": "KD Empire",
+    "Fare": 8,
+    "Station1_coordinates": "19.303365, 72.865113",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "om shanti chowk",
+    "Station_2": "Ram Nagar",
+    "Fare": 6,
+    "Station1_coordinates": "19.302451, 72.867173",
+    "Station2_coordinates": "19.298689, 72.872029"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "om shanti chowk",
+    "Station_2": "Woodland",
+    "Fare": 6,
+    "Station1_coordinates": "19.302451, 72.867173",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "om shanti chowk",
+    "Station_2": "KD Empire",
+    "Fare": 6,
+    "Station1_coordinates": "19.302451, 72.867173",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Ram Nagar",
+    "Station_2": "Woodland",
+    "Fare": 6,
+    "Station1_coordinates": "19.298689, 72.872029",
+    "Station2_coordinates": "19.300251, 72.873535"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Ram Nagar",
+    "Station_2": "KD Empire",
+    "Fare": 6,
+    "Station1_coordinates": "19.298689, 72.872029",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 12,
+    "Station_1": "Woodland",
+    "Station_2": "KD Empire",
+    "Fare": 6,
+    "Station1_coordinates": "19.300251, 72.873535",
+    "Station2_coordinates": "19.301594, 72.874841"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Balaji Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.310313, 72.850399"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Bombay Market Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.30717, 72.84983"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Jain Mandir Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.305438, 72.849857"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Gross Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.30292, 72.849826"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.301596, 72.848254"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Bhayandar Police Station Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.30097, 72.847078"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 8,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 11,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Station W Chowk Bus Stop (fz1)",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 13,
+    "Station1_coordinates": "19.311907, 72.851691",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Bombay Market Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.30717, 72.84983"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Jain Mandir Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.305438, 72.849857"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Gross Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.30292, 72.849826"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.301596, 72.848254"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Bhayandar Police Station Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.30097, 72.847078"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 8,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 11,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Balaji Nagar Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 13,
+    "Station1_coordinates": "19.310313, 72.850399",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Jain Mandir Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.305438, 72.849857"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Gross Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.30292, 72.849826"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.301596, 72.848254"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Bhayandar Police Station Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.30097, 72.847078"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 8,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 11,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bombay Market Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 13,
+    "Station1_coordinates": "19.30717, 72.84983",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Gross Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.30292, 72.849826"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.301596, 72.848254"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Bhayandar Police Station Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.30097, 72.847078"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 8,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 11,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Jain Mandir Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 13,
+    "Station1_coordinates": "19.305438, 72.849857",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.301596, 72.848254"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Bhayandar Police Station Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.30097, 72.847078"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 8,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 11,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 11,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Gross Garden Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 13,
+    "Station1_coordinates": "19.30292, 72.849826",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Bhayandar Police Station Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.30097, 72.847078"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 8,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "MBM Head Office Bus Stop / Mandli Talaw (fz2)",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 11,
+    "Station1_coordinates": "19.301596, 72.848254",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Maxcus Mall / Cityflo Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.29497, 72.849818"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 8,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bhayandar Police Station Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 11,
+    "Station1_coordinates": "19.30097, 72.847078",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Bishop School Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.295092, 72.851912"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 8,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Maxcus Mall / Cityflo Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 11,
+    "Station1_coordinates": "19.29497, 72.849818",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Golden Nest Circle Bus Stop (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.295677, 72.858452"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 8,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bishop School Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 11,
+    "Station1_coordinates": "19.295092, 72.851912",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Savarkar Chowk Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.295039, 72.859091"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Golden Nest Circle Bus Stop (fz3)",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.295677, 72.858452",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Shrinath Complex Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.292201, 72.861915"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Savarkar Chowk Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.295039, 72.859091",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Chaitanya Hospital Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.290269, 72.863853"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shrinath Complex Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.292201, 72.861915",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Shivar Garden Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.288413, 72.865658"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Chaitanya Hospital Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.290269, 72.863853",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Bebrli Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.287004, 72.867545"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Shivar Garden Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.288413, 72.865658",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "SK Stone Bus Stop (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.285424, 72.869801"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 6,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Bebrli Park Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.287004, 72.867545",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "SK Stone Bus Stop (fz4)",
+    "Station_2": "Sunder Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.285424, 72.869801",
+    "Station2_coordinates": "19.284447, 72.871137"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "SK Stone Bus Stop (fz4)",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.285424, 72.869801",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "SK Stone Bus Stop (fz4)",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.285424, 72.869801",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "SK Stone Bus Stop (fz4)",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.285424, 72.869801",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "SK Stone Bus Stop (fz4)",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.285424, 72.869801",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "SK Stone Bus Stop (fz4)",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.285424, 72.869801",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Sunder Nagar Bus Stop",
+    "Station_2": "Hitko Company Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.284447, 72.871137",
+    "Station2_coordinates": "19.28118, 72.875571"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Sunder Nagar Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.284447, 72.871137",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Sunder Nagar Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.284447, 72.871137",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Sunder Nagar Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.284447, 72.871137",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Sunder Nagar Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.284447, 72.871137",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company Bus Stop",
+    "Station_2": "Hitko Company/Hatkesh Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.28118, 72.875571",
+    "Station2_coordinates": "19.279908, 72.877349"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.28118, 72.875571",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.28118, 72.875571",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.28118, 72.875571",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company/Hatkesh Bus Stop",
+    "Station_2": "Green Park Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.279908, 72.877349",
+    "Station2_coordinates": "19.278776, 72.878904"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company/Hatkesh Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.279908, 72.877349",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Hitko Company/Hatkesh Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.279908, 72.877349",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Green Park Bus Stop",
+    "Station_2": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Fare": 8,
+    "Station1_coordinates": "19.278776, 72.878904",
+    "Station2_coordinates": "19.276069, 72.881939"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Green Park Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.278776, 72.878904",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 5,
+    "Station_1": "Punjab Foundry/Sahyadri Nagar Bus Stop",
+    "Station_2": "Kashimira (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.276069, 72.881939",
+    "Station2_coordinates": "19.273285, 72.882639"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Bhayandar Secondary School",
+    "Fare": 6,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.300007, 72.844247"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.298992, 72.841312"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Murdha Khadi",
+    "Fare": 6,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.299202, 72.83665"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Murdha (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.299518, 72.830844"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Sai Mandir Murdha",
+    "Fare": 6,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.299092, 72.828841"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Custom Office (fz4)",
+    "Fare": 8,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.298154, 72.824155"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 11,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Police Station (fz1)",
+    "Station_2": "Morva (fz7)",
+    "Fare": 11,
+    "Station1_coordinates": "19.300926, 72.846983",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Fare": 6,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.298992, 72.841312"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Murdha Khadi",
+    "Fare": 6,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.299202, 72.83665"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Murdha (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.299518, 72.830844"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Sai Mandir Murdha",
+    "Fare": 6,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.299092, 72.828841"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Custom Office (fz4)",
+    "Fare": 8,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.298154, 72.824155"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 8,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 11,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Bhayandar Secondary School",
+    "Station_2": "Morva (fz7)",
+    "Fare": 11,
+    "Station1_coordinates": "19.300007, 72.844247",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Murdha Khadi",
+    "Fare": 6,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.299202, 72.83665"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Murdha (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.299518, 72.830844"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Sai Mandir Murdha",
+    "Fare": 6,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.299092, 72.828841"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Custom Office (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.298154, 72.824155"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 6,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 8,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Netaji Subhash Chandra Bose Maidan (fz2)",
+    "Station_2": "Morva (fz7)",
+    "Fare": 11,
+    "Station1_coordinates": "19.298992, 72.841312",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha Khadi",
+    "Station_2": "Murdha (fz3)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299202, 72.83665",
+    "Station2_coordinates": "19.299518, 72.830844"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha Khadi",
+    "Station_2": "Sai Mandir Murdha",
+    "Fare": 6,
+    "Station1_coordinates": "19.299202, 72.83665",
+    "Station2_coordinates": "19.299092, 72.828841"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha Khadi",
+    "Station_2": "Custom Office (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299202, 72.83665",
+    "Station2_coordinates": "19.298154, 72.824155"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha Khadi",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299202, 72.83665",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha Khadi",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 8,
+    "Station1_coordinates": "19.299202, 72.83665",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha Khadi",
+    "Station_2": "Morva (fz7)",
+    "Fare": 11,
+    "Station1_coordinates": "19.299202, 72.83665",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha (fz3)",
+    "Station_2": "Sai Mandir Murdha",
+    "Fare": 6,
+    "Station1_coordinates": "19.299518, 72.830844",
+    "Station2_coordinates": "19.299092, 72.828841"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha (fz3)",
+    "Station_2": "Custom Office (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299518, 72.830844",
+    "Station2_coordinates": "19.298154, 72.824155"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha (fz3)",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299518, 72.830844",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha (fz3)",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 8,
+    "Station1_coordinates": "19.299518, 72.830844",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Murdha (fz3)",
+    "Station_2": "Morva (fz7)",
+    "Fare": 8,
+    "Station1_coordinates": "19.299518, 72.830844",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Sai Mandir Murdha",
+    "Station_2": "Custom Office (fz4)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299092, 72.828841",
+    "Station2_coordinates": "19.298154, 72.824155"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Sai Mandir Murdha",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 6,
+    "Station1_coordinates": "19.299092, 72.828841",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Sai Mandir Murdha",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 8,
+    "Station1_coordinates": "19.299092, 72.828841",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Sai Mandir Murdha",
+    "Station_2": "Morva (fz7)",
+    "Fare": 8,
+    "Station1_coordinates": "19.299092, 72.828841",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Custom Office (fz4)",
+    "Station_2": "Rai Gaon (fz5)",
+    "Fare": 6,
+    "Station1_coordinates": "19.298154, 72.824155",
+    "Station2_coordinates": "19.29678, 72.820687"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Custom Office (fz4)",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 8,
+    "Station1_coordinates": "19.298154, 72.824155",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Custom Office (fz4)",
+    "Station_2": "Morva (fz7)",
+    "Fare": 8,
+    "Station1_coordinates": "19.298154, 72.824155",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Rai Gaon (fz5)",
+    "Station_2": "Shivneri (fz6)",
+    "Fare": 6,
+    "Station1_coordinates": "19.29678, 72.820687",
+    "Station2_coordinates": "19.296211, 72.819277"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Rai Gaon (fz5)",
+    "Station_2": "Morva (fz7)",
+    "Fare": 8,
+    "Station1_coordinates": "19.29678, 72.820687",
+    "Station2_coordinates": "19.292035, 72.814692"
+  },
+  {
+    "Route_Code": 20,
+    "Station_1": "Shivneri (fz6)",
+    "Station_2": "Morva (fz7)",
+    "Fare": 6,
+    "Station1_coordinates": "19.296211, 72.819277",
+    "Station2_coordinates": "19.292035, 72.814692"
+  }
+]
