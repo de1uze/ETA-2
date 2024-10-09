@@ -8,6 +8,8 @@ import ETA from './ETA';
 import FindBus from './FindBus';
 import GoogleMapView from './GoogleMapView';
 import FareCalculator from './FareCalculator';
+import TxtToCsvConverter from './TxtToCsvConverter';
+
 
 
 
@@ -24,7 +26,8 @@ function App() {
           <Route path="/eta" element={<ETA />} />
           <Route path="/findbus" element={<FindBus />} /> 
           <Route path="/googlemapview" element={<GoogleMapView />} />
-          <Route path="/farecalculator" element={<FareCalculator />} /> {/* Add the route for FareCalculator */}
+          <Route path="/farecalculator" element={<FareCalculator />} /> 
+          <Route path="/txttocsv" element={<TxtToCsvConverter />} />
 
           
 

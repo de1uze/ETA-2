@@ -26,7 +26,10 @@ const Navbar = () => {
             <Link className="nav-link" to="/googlemapview">Google Map View</Link> 
           </li>
           <li className="nav-item">
-            <Link className="nav-link" to="/farecalculator">Fare Calculator</Link> {/* Add link for FareCalculator */}
+            <Link className="nav-link" to="/farecalculator">Fare Calculator</Link> 
+          </li>
+          <li className="nav-item">
+            <Link className="nav-link" to="/txttocsv">Txt to CSV</Link> 
           </li>
 
         </ul>

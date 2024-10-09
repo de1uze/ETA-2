@@ -72,7 +72,7 @@ const ETA = () => {
       <h1 className="text-center mb-4">ETA Calculator</h1>
       <div className="row mb-4">
         <div className="col-md-6">
-          <h2>Current Location</h2>
+          <h2>Source</h2>
           <div className="form-group">
             <label>Latitude</label>
             <input type="number" className="form-control" placeholder="Latitude" value={currentLocation.lat} onChange={(e) => setCurrentLocation({ ...currentLocation, lat: e.target.value })} />
@@ -83,7 +83,7 @@ const ETA = () => {
           </div>
         </div>
         <div className="col-md-6">
-          <h2>Friend's Location</h2>
+          <h2>Destination</h2>
           <div className="form-group">
             <label>Latitude</label>
             <input type="number" className="form-control" placeholder="Latitude" value={friendLocation.lat} onChange={(e) => setFriendLocation({ ...friendLocation, lat: e.target.value })} />
